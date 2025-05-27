@@ -4,7 +4,7 @@ let revenue = 12000
 let expenses = 12000
 let cashflow = revenue - expenses;  
 let current_balance = capital + cashflow;
-let is_profitable = profit > 0 ? true : false;
+let is_profitable = cashflow > 0;
 
 console.log("Startup Name: " + startup_name);
 console.log("Cash Flow: " + cashflow);
