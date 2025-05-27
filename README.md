@@ -1,0 +1,1 @@
+Java Script file that saves the Budget Assistant, listing the profitability 
